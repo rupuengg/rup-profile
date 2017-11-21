@@ -16,6 +16,7 @@ class App extends Component{
 
   render(){
     var designation = this.props.profile.basic_info.designation;
+    var dob = this.props.profile.basic_info.dob;
     var current_location = this.props.profile.basic_info.current_location;
     var email = this.props.profile.basic_info.email;
     var mobile = this.props.profile.basic_info.mobile;
@@ -35,6 +36,10 @@ class App extends Component{
                       <i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>
                       {designation}
                     </p>
+                     <p>
+                       <i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>
+                       {dob}
+                     </p>
                     <p>
                       <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>
                       {current_location}

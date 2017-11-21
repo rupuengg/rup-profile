@@ -3,6 +3,7 @@
     "first_name": "Rupendra",
     "middle_name": "Kumar",
     "last_name": "Dhiman",
+    "dob": "01/07/1985",
     "email": "rupu.engg@gmail.com",
     "mobile": "+91-9891008373",
     "profile_image": "avatar_hat.jpg",
@@ -54,10 +55,131 @@
       "project_desc": "HRIS stands for human resource information system.It is mocked-up functionally for the suitability of the employees of the company and management of the employees by the HR dept.Not only consisting of features like employee timesheet but also consist of complex features like ERP system is binded to the HRIS for client-engineer billing.HRIS is not just an information system but also it helps tagging of employees to different projects and employee taskboard for allotment of employees to the project and allotment of project tasks to the employee.",
       "working_position": "Full Stack Developer",
       "duration": "12 months",
-      "start_date": "May 2017",
-      "end_date": "May 2016",
+      "start_date": "Nov 2016",
+      "end_date": "Jun 2017",
       "position": "Sr. Software Engineer",
       "technologies": ["PHP", "Laravel", "Mysql", "AngularJs"]
+    },
+    {
+      "project_name": "Analytics on TinCan API",
+      "project_desc": "Create analytics using tincan API",
+      "working_position": "Sr. Software Engineer",
+      "duration": "12 months",
+      "start_date": "May 2016",
+      "end_date": "Oct 2016",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "TinCan API", "HighchartJs", "Javascript"]
+    },
+    {
+      "project_name": "Phando",
+      "project_desc": "Phando is a product of qainfotech. it's basically provide the video playing features to users. it's also provide the streaming.",
+      "working_position": "Sr. Software Engineer",
+      "duration": "12 months",
+      "start_date": "Dec 2015",
+      "end_date": "May 2016",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "Laravel", "MySql", "jQuery"]
+    },
+    {
+      "project_name": "SAPHanaCRM",
+      "project_desc": "It’s a direct project of SAP Company. This site is for Startup Focus program to register new startups for HANA Database. It contains different level of users. User can register on portal and SAP guys to find out the startup and ask different type questions to approach the startups. This project contains several modules like User Management, Permissions Management, Contacts Module, Assets Management, Lookup Management, Workflow Management, Notifications Management, Messaging Module, Reports View.",
+      "project_url": "http://startupfocus.saphana.com/program",
+      "working_position": "Full Stack Developer",
+      "duration": "12 months",
+      "start_date": "Jan 2013",
+      "end_date": "Dec 2015",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "Codeigniter", "HanaDB", "jQuery"]
+    },
+    {
+      "project_name": "SuperPeople",
+      "project_desc": "It's a different type of project in which admin can add project (Like Loss Weight, Beauty etc). User can login and add project in his project list. Admin verify users for his particular project that user are suitable for this project. This project contains several modules like Project Management, Messaging Module, Questionnaires Management, Milestones Management.",
+      "project_url": "http://www.getsuperpeople.com/",
+      "working_position": "Full Stack Developer",
+      "duration": "12 months",
+      "start_date": "Jul 2012",
+      "end_date": "Jan 2013",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "Codeigniter", "MySql", "jQuery"]
+    },
+    {
+      "project_name": "UrbanDecay",
+      "project_desc": "Urban Decay is beauty with an edge. Feminine, dangerous and fun, it appeals to women Who relish their individuality and dare to express it. We have integrated YouTube Video API. It automatically fetches the videos from their own channel on basis of tags and product name. We also applied the login and register using facebook. This project contains a pipeline of several steps to send and receive the response to go ahead to next one in the pipeline.",
+      "project_url": "https://www.urbandecay.com/",
+      "working_position": "Sr. Software Engineer",
+      "duration": "12 months",
+      "start_date": "Jan 2012",
+      "end_date": "Jul 2012",
+      "position": "Sr. Software Engineer",
+      "technologies": ["Demanware", "jQuery"]
+    },
+    {
+      "project_name": "RetailPro",
+      "project_desc": "Earlier this site was containing all process manually. They entered all details manually through retailpro web form. But later they created a site .The main problem here was it was containing 2 different databases. So we created a crm which created an interface to merge both databases.",
+      "working_position": "Sr. Software Engineer",
+      "duration": "4 months",
+      "position": "Sr. Software Engineer",
+      "technologies": ["ASP.NET", "RetailPro API", "MySql"]
+    },
+    {
+      "project_name": "USC Cinematic Arts",
+      "project_desc": "The JobBoard is a web application that is similar to Monster.com.  It is a portal that allows employers to post jobs and students to search for the jobs and apply for them.",
+      "project_url": "https://cinema.usc.edu",
+      "working_position": "Sr. Software Engineer",
+      "duration": "8 months",
+      "position": "Sr. Software Engineer",
+      "technologies": ["ColdFusion", "Sql", "jQuery"]
+    },
+    {
+      "project_name": "HKSCF",
+      "project_desc": "Hong Kong specialist care Fund was established in January 2011, is a non-profit medical coalition of members from various medical fields, aims to provide the public with cutting-edge medical information, universal health education, to help improve public health awareness, learn more feasible treatment options for their own health make the wisest choice.",
+      "project_url": "http://hkscf.org/",
+      "working_position": "Sr. Software Engineer",
+      "duration": "10 months",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "Zend", "MySql", "jQuery"]
+    },
+    {
+      "project_name": "MMR(Make Music Records)",
+      "project_desc": "This site is a platform where any person or band can upload their own music. And if peoples like and download the song. They can download the song by paying fee and the artist will get royalty for song.",
+      "project_url": "http://www.makemusicrecords.com/Files/music.aspx",
+      "working_position": "Sr. Software Engineer",
+      "duration": "10 months",
+      "position": "Sr. Software Engineer",
+      "technologies": ["ASP.NET", "Sql"]
+    },
+    {
+      "project_name": "BizzzBuzzz",
+      "project_desc": "It is a kind of forum for Business Networking, Chamber Events and Sponsorship. There are 3 parties involved – in order of importance. The local chamber of Commerce – each chamber has local businesses that are registered with them. Local Businesses – they register with the chamber in order to network with other businesses.",
+      "project_url": "http://bizzzbuzzz.com/",
+      "working_position": "Sr. Software Engineer",
+      "duration": "12 months",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "CakePHP", "MySql", "Moohtools"]
+    },
+    {
+      "project_name": "Metricam(Optimum Outsourcing)",
+      "project_desc": "Metricam is a technology allowing acquisition and data processing of linear starting from a simple Photographic catch. The system analyzes and extracts the unit from the space and quantitative data on the presence of the Products with a precision never yet reached.",
+      "working_position": "Software Engineer",
+      "duration": "8 months",
+      "position": "Software Engineer",
+      "technologies": ["PHP", "Symfony", "MySql", "Javascript"]
+    },
+    {
+      "project_name": "MyCardTrader",
+      "project_desc": "Design this application using MVC architecture. A Mycardtrader is a new website that is being launched by FamCom. It is a “retail networking” Website, that is, it combines social-networking and retail e-commerce sites together. The primary goal of the application is to Integrate into the networking aspect of Facebook. The Facebook version of the application will provide the users Extensive Browsing capability only, but for all transactions, they will be directed back to the Mycardtrader website.",
+      "working_position": "Software Engineer",
+      "duration": "12 months",
+      "position": "Software Engineer",
+      "technologies": ["ASP.NET", "Sql", "Javascript"]
+    },
+    {
+      "project_name": "BCP(Baseline Change Proposal)",
+      "project_desc": "Design this application using MVC architecture. A BCP is a Baseline Change Proposal. Any change to the Baseline database requires a BCP to be approved. The BCP Program will allow a user to keep her BCP copy that is being worked on updated with changes from the Actual database. It will also make updating the Baseline with approved BCPs much simpler if not fully automated. The user that the BCP is assigned to will first open the BCP program and select from a list of activities that have been changed to update their copies of the Nodes for the BCP number they selected.",
+      "working_position": "Software Engineer",
+      "duration": "10 months",
+      "position": "Software Engineer",
+      "technologies": ["ASP.NET(1.0)", "Sql"]
     }
   ],
   "educations": [
