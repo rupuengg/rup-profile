@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "first_name": "Rupendra",
+    "middle_name": "Kumar",
+    "last_name": "Dhiman",
+    "email": "rupu.engg@gmail.com",
+    "mobile": "+91-9891008373",
+    "profile_image": "avatar_hat.jpg",
+    "designation": "Sr. Software Engineer",
+    "current_location": "Noida, India"
+  },
+  "skills": [
+    {"name": "React", "rating": "70%"},
+    {"name": "AngularJs", "rating": "80%"},
+    {"name": "Angular", "rating": "40%"},
+    {"name": "jQuery", "rating": "80%"},
+    {"name": "MomentJs", "rating": "60%"},
+    {"name": "Webpack", "rating": "70%"},
+    {"name": "Grunt", "rating": "40%"},
+    {"name": "Gulp", "rating": "30%"},
+    {"name": "PHP", "rating": "80%"},
+    {"name": "Laravel", "rating": "60%"},
+    {"name": "Codeigniter", "rating": "70%"},
+    {"name": "ColdFusion", "rating": "40%"},
+    {"name": "Mysql", "rating": "70%"}
+  ],
+  "languages": [
+    {"name": "Hindi", "rating": "100%"},
+    {"name": "English", "rating": "80%"}
+  ],
+  "work_experiencs": [
+    {
+      "project_name": "SICK Sensors",
+      "project_desc": "Displaying  real time sensor data in UI, by creating reusable widgets.",
+      "working_position": "Front End Developer",
+      "duration": "3 months",
+      "start_date": "Aug 2017",
+      "end_date": "Nov 2017",
+      "position": "Sr. Software Engineer",
+      "technologies": ["ReactJs", "Javascript"]
+    },
+    {
+      "project_name": "Donor Concierge",
+      "project_desc": "This web application is intended for parents who want greater choice when choosing an egg donor or surrogate and also for those agencies which are helping them to find as per their requirement from the database of donors. This web application serves as a centralized database of different agencies’ donors with the very complex searching algorithm.",
+      "working_position": "Front End Developer",
+      "duration": "3 months",
+      "start_date": "Jun 2017",
+      "end_date": "Aug 2017",
+      "position": "Sr. Software Engineer",
+      "technologies": ["ReactJs", "AngularJS (1.5.8)", "Nodejs(6.9.1)", "expressjs(4.14.0)", "MySql(5.7)"]
+    },
+    {
+      "project_name": "HRIS",
+      "project_desc": "HRIS stands for human resource information system.It is mocked-up functionally for the suitability of the employees of the company and management of the employees by the HR dept.Not only consisting of features like employee timesheet but also consist of complex features like ERP system is binded to the HRIS for client-engineer billing.HRIS is not just an information system but also it helps tagging of employees to different projects and employee taskboard for allotment of employees to the project and allotment of project tasks to the employee.",
+      "working_position": "Full Stack Developer",
+      "duration": "12 months",
+      "start_date": "May 2017",
+      "end_date": "May 2016",
+      "position": "Sr. Software Engineer",
+      "technologies": ["PHP", "Laravel", "Mysql", "AngularJs"]
+    }
+  ],
+  "educations": [
+    {
+      "course": "W3Schools.com",
+      "forever": true,
+      "start_date": "",
+      "end_date": "",
+      "description": "Web Development! All I need to know in one place"
+    },
+    {
+      "course": "B.Tech(Computer Science & Engineer)",
+      "duration": "4 years",
+      "start_date": "Jul 2002",
+      "end_date": "Aug 2006",
+      "description": "Faculty of Engineering Technolog (Gurukul Kangri University)"
+    },
+    {
+      "course": "XII",
+      "start_date": "Jul 2001",
+      "end_date": "May 2002",
+      "description": "Bal Mandir Senior Secondary School Haridwar"
+    },
+    {
+      "course": "X",
+      "start_date": "Jul 1999",
+      "end_date": "May 2000",
+      "description": "Bal Mandir Senior Secondary School Haridwar"
+    }
+  ]
+}
