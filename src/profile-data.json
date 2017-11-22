@@ -29,7 +29,32 @@
     {"name": "Hindi", "rating": "100%"},
     {"name": "English", "rating": "80%"}
   ],
+  "professional": [
+    "6 years of PHP/Javascript development experience in both product and service industries.",
+    "Well versed with Continuous Development and Integration under Agile Driven Development environment.",
+    "Innovating and developing responsive UI modules over AngularJS, HTML5, ReactJS, Bootstrap, LESS.",
+    "Experience in latest build and version control technologies (GIT, SVN).",
+    "Proficiently developed modules over Ruby & Rails, ColdFusion, Demandware, ASP.NET.",
+    "Highly proficient in handling NoSQL data with MongoDB and SQL queries in DB2 , MySQL.",
+    "knowledge of Linux environment and LAMP."
+  ],
   "work_experiencs": [
+    {
+      "company_name": "QAInfotech",
+      "company_url": "https://qainfotech.com/",
+      "position": "Sr. Software Engineer",
+      "start_date": "Dec 2015",
+      "end_date": "current"
+    },
+    {
+      "company_name": "Famcom Labs Pvt. Ltd.",
+      "company_url": "http://famcominc.com/",
+      "position": "Software Engineer",
+      "start_date": "Jul 2008",
+      "end_date": "May 2015"
+    }
+  ],
+  "projects": [
     {
       "project_name": "SICK Sensors",
       "project_desc": "Displaying  real time sensor data in UI, by creating reusable widgets.",
@@ -178,6 +203,8 @@
       "project_desc": "Design this application using MVC architecture. A BCP is a Baseline Change Proposal. Any change to the Baseline database requires a BCP to be approved. The BCP Program will allow a user to keep her BCP copy that is being worked on updated with changes from the Actual database. It will also make updating the Baseline with approved BCPs much simpler if not fully automated. The user that the BCP is assigned to will first open the BCP program and select from a list of activities that have been changed to update their copies of the Nodes for the BCP number they selected.",
       "working_position": "Software Engineer",
       "duration": "10 months",
+      "start_date": "Aug 2008",
+      "end_date": "Dec 2008",
       "position": "Software Engineer",
       "technologies": ["ASP.NET(1.0)", "Sql"]
     }

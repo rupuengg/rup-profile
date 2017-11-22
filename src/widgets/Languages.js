@@ -1,10 +1,9 @@
 import React from 'react';
 
 class Languages extends React.Component{
-  constructor(props){
-    super(props);
-    console.log(props);
-  }
+  // constructor(props){
+  //   super(props);
+  // }
 
   render(){
     var languages = this.props.languages.map((language, index) =>

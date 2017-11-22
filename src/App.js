@@ -3,7 +3,9 @@ import React, { Component } from 'react';
 import Profile from './widgets/Profile';
 import Skills from './widgets/Skills';
 import Languages from './widgets/Languages';
+import Professionals from './widgets/Professionals';
 import WorkExperience from './widgets/WorkExperience';
+import Projects from './widgets/Projects';
 import Educations from './widgets/Educations';
 
 import './App.css';
@@ -22,7 +24,9 @@ class App extends Component{
     var mobile = this.props.profile.basic_info.mobile;
     var skills = this.props.profile.skills;
     var languages = this.props.profile.languages;
+    var professional = this.props.profile.professional;
     var work_experiencs = this.props.profile.work_experiencs;
+    var projects = this.props.profile.projects;
     var educations = this.props.profile.educations;
 
     return (
@@ -62,7 +66,9 @@ class App extends Component{
             </div>
 
             <div className="w3-twothird">
+             <Professionals professional={professional} />
              <WorkExperience work_experiencs={work_experiencs} />
+             <Projects projects={projects} />
              <Educations educations={educations} />
             </div>
         </div>
