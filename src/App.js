@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Header from './navbars/Header';
+
 import Profile from './widgets/Profile';
 import Skills from './widgets/Skills';
 import Languages from './widgets/Languages';
@@ -31,7 +33,8 @@ class App extends Component{
 
     return (
       <div className="w3-content w3-margin-top" style={{'maxWidth':'1400px'}}>
-        <div className="w3-row-padding">
+        <Header />
+        <div className="w3-row-padding" style={{'marginTop':'70px'}}>
             <div className="w3-third">
               <div className="w3-white w3-text-grey w3-card-4">
                  <Profile profile={this.props.profile.basic_info} />
